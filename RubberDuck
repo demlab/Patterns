@@ -1,0 +1,15 @@
+package Patterns.strategy.behaviour;
+
+import Patterns.strategy.behaviour.IFlyBehaviour;
+
+public class RubberDuck extends AbsDuck {
+
+    public RubberDuck(IFlyBehaviour behaviour) {
+        super(behaviour);
+    }
+
+    @Override
+    public void display() {
+        System.out.println("This is RubberDuck");
+    }
+}
