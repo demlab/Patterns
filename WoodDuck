@@ -1,6 +1,6 @@
 package Patterns.strategy;
 
-import Patterns.strategy.behaviour.IFlyBehaviour;
+import Patterns.strategy.IFlyBehaviour;
 
 public class WoodDuck extends AbsDuck {
 
