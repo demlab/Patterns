@@ -1,9 +1,9 @@
-package Patterns.strategy.behaviour;
+package Patterns.strategy;
 
-import Patterns.strategy.behaviour.Fly;
-import Patterns.strategy.behaviour.FlyThrow;
-import Patterns.strategy.behaviour.IFlyBehaviour;
-import Patterns.strategy.behaviour.NoFly;
+import Patterns.strategy.Fly;
+import Patterns.strategy.FlyThrow;
+import Patterns.strategy.IFlyBehaviour;
+import Patterns.strategy.NoFly;
 
 
 public class Start {
