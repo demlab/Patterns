@@ -1,4 +1,4 @@
-package Patterns.strategy.behaviour;
+package Patterns.strategy;
 
 public class NoFly implements IFlyBehaviour {
 
